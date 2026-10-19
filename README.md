@@ -28,9 +28,13 @@ Também: gRPC · NATS JetStream · LLMs · WhatsApp Business API · OAuth2/JWT
 ### Projetos
 
 <p>
+  <a href="https://github.com/Leonardoongaratto/nexus-trading-engine"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-nexus-trading-engine-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-nexus-trading-engine-light.svg" width="49%" alt="nexus-trading-engine"></picture></a>
   <a href="https://github.com/Leonardoongaratto/campaign-broker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-campaign-broker-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-campaign-broker-light.svg" width="49%" alt="campaign-broker"></picture></a>
   <a href="https://github.com/Leonardoongaratto/finance-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-api-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-api-light.svg" width="49%" alt="finance-api"></picture></a>
   <a href="https://github.com/Leonardoongaratto/finance-web"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-web-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-web-light.svg" width="49%" alt="finance-web"></picture></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Leonardoongaratto/ai-dev-template"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-ai-dev-template-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-ai-dev-template-light.svg" width="49%" alt="ai-dev-template"></picture></a>
 </p>
 
