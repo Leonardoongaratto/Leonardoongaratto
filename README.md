@@ -1,35 +1,49 @@
-### Olá, eu sou o Leonardo 👋
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Leonardo Ongaratto · Engenheiro de Software Sênior · Backend Python &amp; Go · Agentic AI &amp; LLMs">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardoongaratto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+### Sobre mim
 
 Engenheiro de software sênior, com mais de 6 anos em backend. Trabalho com **Go** e **Python** em microsserviços e mensageria e, hoje, com **Agentic AI**: agentes de atendimento que integram LLMs a sistemas corporativos em produção, com alto volume.
 
-- Migração de microsserviços de Python para Go, reduzindo pela metade ou mais o uso de pods no Kubernetes
-- Agentes de IA no WhatsApp (incluindo WhatsApp Flows) integrados a serviços internos e APIs externas
-- Testes automatizados e cobertura acima de 80% nos projetos principais
+- 🚀 Migração de microsserviços de Python para Go, reduzindo pela metade ou mais o uso de pods no Kubernetes
+- 🤖 Agentes de IA no WhatsApp (incluindo WhatsApp Flows) integrados a serviços internos e APIs externas
+- ✅ Testes automatizados e cobertura acima de 80% nos projetos principais
 
-**Stack:** Go · Python · Gin · Django/DRF · PostgreSQL · Redis · RabbitMQ · NATS · gRPC · Docker · Kubernetes · LLMs · WhatsApp Business API
+### Stack
 
-#### Projetos em destaque (Go)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,django,ts,react,postgres,redis,rabbitmq,docker,kubernetes,githubactions,linux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=go,py,django,ts,react,postgres,redis,rabbitmq,docker,kubernetes,githubactions,linux&theme=light" alt="Go, Python, Django, TypeScript, React, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, GitHub Actions, Linux">
+  </picture>
+</p>
 
-```mermaid
-flowchart LR
-    Client[Sistemas integradores] -->|mensagens de campanha| Broker[campaign-broker]
-    Broker -->|validação de token com cache| Auth[Serviço de identidade / OAuth2]
-    Broker -->|download de mídia em streaming| Media[Origem das mídias]
-    Broker -->|AMQP| MQ[(RabbitMQ)]
-```
+Também: gRPC · NATS JetStream · LLMs · WhatsApp Business API · OAuth2/JWT
 
-| Projeto | O que é |
-| --- | --- |
-| [campaign-broker](https://github.com/Leonardoongaratto/campaign-broker) | Gateway de ingestão de mensagens de campanha WhatsApp: autenticação com cache de tokens, download de mídia com streaming para Base64 e publicação em filas RabbitMQ com pool de canais. CI com gate de cobertura (≥ 80%) |
-| [finance-api](https://github.com/Leonardoongaratto/finance-api) | API JSON de finanças pessoais em Go (chi + SQLite sem CGO): gastos, investimentos, metas, dívidas e painel, importação de extratos OFX, Docker Compose e CI com smoke test |
-| [finance-web](https://github.com/Leonardoongaratto/finance-web) | Interface da finance-api em React, Vite e TypeScript, com gráficos em Recharts e testes em Vitest |
+### Projetos
 
-#### Outros projetos
+<p>
+  <a href="https://github.com/Leonardoongaratto/campaign-broker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-campaign-broker-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-campaign-broker-light.svg" width="49%" alt="campaign-broker"></picture></a>
+  <a href="https://github.com/Leonardoongaratto/finance-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-api-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-api-light.svg" width="49%" alt="finance-api"></picture></a>
+  <a href="https://github.com/Leonardoongaratto/finance-web"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-web-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-finance-web-light.svg" width="49%" alt="finance-web"></picture></a>
+  <a href="https://github.com/Leonardoongaratto/ai-dev-template"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-ai-dev-template-dark.svg"><img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/repo-ai-dev-template-light.svg" width="49%" alt="ai-dev-template"></picture></a>
+</p>
 
-| Projeto | O que é |
-| --- | --- |
-| [ai-dev-template](https://github.com/Leonardoongaratto/ai-dev-template) | Governança para projetos com agentes de IA (Claude Code e Antigravity): pipeline implementer → reviewer → QA → bug-fixer e setup para Windows e Linux |
-| [recipes](https://github.com/Leonardoongaratto/recipes) | Site de receitas em Django com busca, paginação e suíte de testes em pytest |
-| [tourist-point-api](https://github.com/Leonardoongaratto/tourist-point-api) | API REST de pontos turísticos em Django REST Framework |
+### Linguagens e contribuições
 
-📫 [LinkedIn](https://www.linkedin.com/in/leonardoongaratto/)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/languages-light.svg" width="49%" alt="Linguagens mais usadas">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Leonardoongaratto/Leonardoongaratto/output/github-snake.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
+</picture>
