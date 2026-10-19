@@ -18,8 +18,8 @@ Engenheiro de software sênior, com mais de 6 anos em backend. Trabalho com **Go
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,django,ts,react,postgres,redis,rabbitmq,docker,kubernetes,githubactions,linux&theme=dark">
-    <img src="https://skillicons.dev/icons?i=go,py,django,ts,react,postgres,redis,rabbitmq,docker,kubernetes,githubactions,linux&theme=light" alt="Go, Python, Django, TypeScript, React, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, GitHub Actions, Linux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpy%2Cdjango%2Cts%2Creact%2Cpostgres%2Credis%2Crabbitmq%2Cdocker%2Ckubernetes%2Cgithubactions%2Clinux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=go%2Cpy%2Cdjango%2Cts%2Creact%2Cpostgres%2Credis%2Crabbitmq%2Cdocker%2Ckubernetes%2Cgithubactions%2Clinux&theme=light" alt="Go, Python, Django, TypeScript, React, PostgreSQL, Redis, RabbitMQ, Docker, Kubernetes, GitHub Actions, Linux">
   </picture>
 </p>
 
