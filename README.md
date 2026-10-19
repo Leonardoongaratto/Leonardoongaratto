@@ -8,7 +8,7 @@ Engenheiro de software sênior, com mais de 6 anos em backend. Trabalho com **Go
 
 **Stack:** Go · Python · Gin · Django/DRF · PostgreSQL · Redis · RabbitMQ · NATS · gRPC · Docker · Kubernetes · LLMs · WhatsApp Business API
 
-#### Projeto em destaque (Go)
+#### Projetos em destaque (Go)
 
 ```mermaid
 flowchart LR
@@ -21,6 +21,8 @@ flowchart LR
 | Projeto | O que é |
 | --- | --- |
 | [campaign-broker](https://github.com/Leonardoongaratto/campaign-broker) | Gateway de ingestão de mensagens de campanha WhatsApp: autenticação com cache de tokens, download de mídia com streaming para Base64 e publicação em filas RabbitMQ com pool de canais. CI com gate de cobertura (≥ 80%) |
+| [finance-api](https://github.com/Leonardoongaratto/finance-api) | API JSON de finanças pessoais em Go (chi + SQLite sem CGO): gastos, investimentos, metas, dívidas e painel, importação de extratos OFX, Docker Compose e CI com smoke test |
+| [finance-web](https://github.com/Leonardoongaratto/finance-web) | Interface da finance-api em React, Vite e TypeScript, com gráficos em Recharts e testes em Vitest |
 
 #### Outros projetos
 
