@@ -5,6 +5,7 @@ const OUT_DIR = process.argv[2] ?? "dist";
 const TOKEN = process.env.GITHUB_TOKEN;
 
 const FEATURED = [
+  { repo: "llm-gateway", description: "Gateway de IA em Go com orçamento rígido de tokens, fallback entre provedores, gRPC e NATS JetStream" },
   { repo: "nexus-trading-engine", description: "Robô de trading em Python para MetaTrader 5 (ouro, BTC, forex): estrutura de mercado, risco e backtest" },
   { repo: "campaign-broker", description: "Gateway de ingestão de campanhas WhatsApp com cache de tokens, streaming de mídia e RabbitMQ" },
   { repo: "finance-api", description: "API de finanças pessoais em Go: gastos, investimentos, metas, dívidas e importação OFX" },
