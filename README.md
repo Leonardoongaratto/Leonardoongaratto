@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Leonardo Ongaratto · Engenheiro de Software Sênior · Backend Python &amp; Go · Agentic AI &amp; LLMs">
+  <img src="assets/banner.svg" width="100%" alt="Leonardo Ongaratto · Engenheiro de Software Sênior · Backend Go &amp; Python · Agentic AI &amp; LLMs">
 </p>
 
 <p align="center">

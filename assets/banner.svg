@@ -45,7 +45,7 @@
   <text x="70" y="150" fill="#ffffff" font-size="62" font-weight="700" letter-spacing="0.5">Leonardo Ongaratto</text>
 
   <g font-size="32" font-weight="600" fill="url(#accent)">
-    <text x="70" y="206" clip-path="url(#type0)">Backend Python &amp; Go</text>
+    <text x="70" y="206" clip-path="url(#type0)">Backend Go &amp; Python</text>
     <text x="70" y="206" clip-path="url(#type1)">Agentic AI &amp; LLMs em produção</text>
     <text x="70" y="206" clip-path="url(#type2)">Microsserviços · Mensageria · Kubernetes</text>
   </g>
