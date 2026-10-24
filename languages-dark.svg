@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="174" viewBox="0 0 400 174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><clipPath id="bar"><rect x="25" y="52" width="350" height="10" rx="5"/></clipPath></defs>
+  <rect x="0.5" y="0.5" width="399" height="173" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="34" fill="#58a6ff" font-size="16" font-weight="600">Linguagens mais usadas</text>
+  <rect x="25" y="52" width="350" height="10" rx="5" fill="#21262d"/>
+  <g clip-path="url(#bar)"><rect x="25" y="52" width="195.43117463274507" height="10" fill="#FFD43B"/><rect x="220.43117463274507" y="52" width="93.6431534997662" height="10" fill="#00ADD8"/><rect x="314.07432813251125" y="52" width="48.754469730869" height="10" fill="#3178C6"/><rect x="362.82879786338026" y="52" width="8.71969533593199" height="10" fill="#A78BFA"/><rect x="371.54849319931225" y="52" width="2" height="10" fill="#F0883E"/><rect x="373.54849319931225" y="52" width="2" height="10" fill="#8b949e"/></g>
+  <circle cx="30" cy="86" r="5" fill="#FFD43B"/>
+  <text x="41" y="90" fill="#c9d1d9" font-size="13">Python</text>
+  <text x="185" y="90" fill="#8b949e" font-size="12" text-anchor="end">55.8%</text>
+  <circle cx="210" cy="86" r="5" fill="#00ADD8"/>
+  <text x="221" y="90" fill="#c9d1d9" font-size="13">Go</text>
+  <text x="365" y="90" fill="#8b949e" font-size="12" text-anchor="end">26.8%</text>
+  <circle cx="30" cy="112" r="5" fill="#3178C6"/>
+  <text x="41" y="116" fill="#c9d1d9" font-size="13">TypeScript</text>
+  <text x="185" y="116" fill="#8b949e" font-size="12" text-anchor="end">13.9%</text>
+  <circle cx="210" cy="112" r="5" fill="#A78BFA"/>
+  <text x="221" y="116" fill="#c9d1d9" font-size="13">PowerShell</text>
+  <text x="365" y="116" fill="#8b949e" font-size="12" text-anchor="end">2.5%</text>
+  <circle cx="30" cy="138" r="5" fill="#F0883E"/>
+  <text x="41" y="142" fill="#c9d1d9" font-size="13">JavaScript</text>
+  <text x="185" y="142" fill="#8b949e" font-size="12" text-anchor="end">0.5%</text>
+  <circle cx="210" cy="138" r="5" fill="#8b949e"/>
+  <text x="221" y="142" fill="#c9d1d9" font-size="13">MQL5</text>
+  <text x="365" y="142" fill="#8b949e" font-size="12" text-anchor="end">0.5%</text>
+</svg>

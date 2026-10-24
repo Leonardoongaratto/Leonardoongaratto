@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="132" viewBox="0 0 400 132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="399" height="131" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="25" y="36" fill="#0969da" font-size="16" font-weight="600">nexus-trading-engine</text>
+  <text x="25" y="62" fill="#1f2328" font-size="13">Robô de trading em Python para MetaTrader 5 (ouro,</text>
+  <text x="25" y="82" fill="#1f2328" font-size="13">BTC, forex): estrutura de mercado, risco e backtest</text>
+  <circle cx="31" cy="106" r="6" fill="#FFD43B"/>
+       <text x="43" y="110" fill="#59636e" font-size="12">Python</text>
+  
+</svg>
